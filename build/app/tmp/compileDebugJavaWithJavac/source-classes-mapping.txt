@@ -1,0 +1,6 @@
+com/example/client/MainActivity.java
+ com.example.client.MainActivity
+com/example/client/BuildConfig.java
+ com.example.client.BuildConfig
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
